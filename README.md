@@ -1,7 +1,7 @@
-# Llama 기반으로 AWS 에서 RAG 구축하기
+# Llama-3.2 기반으로 AWS 에서 RAG 구축하기
 
 ## 개요
-Amazon Bedrock과 SageMaker를 사용하여 생성형 AI 모델을 배포하고 활용하는 방법을 소개합니다. 주요 내용으로는 Bedrock을 통한 임베딩 및 텍스트 생성, SageMaker를 이용한 Llama 모델 배포, OpenSearch를 활용한 지식 베이스 구축, 그리고 RAG(Retrieval-Augmented Generation) 시스템 구현 등이 포함됩니다. 이를 통해 실제 비즈니스 문제를 해결하는 데 도움이 되는 AI 솔루션을 만들어볼 수 있습니다.
+Llama-3.2 과 SageMaker를 사용하여 AWS 에서 RAG 구축하는 방법을 소개합니다. 주요 내용으로는 Bedrock을 통한 임베딩 및 텍스트 생성,  Amazon Bedrock 과 Amazon SageMaker를 이용한 Llama 모델 배포, OpenSearch를 활용한 지식 베이스 구축, 그리고 RAG(Retrieval-Augmented Generation) 시스템 구현 등이 포함됩니다. 이를 통해 실제 비즈니스 문제를 해결하는 데 도움이 되는 AI 솔루션을 만들어볼 수 있습니다.
 
 ## 파일별 설명
 
